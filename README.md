@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lsaacemanuel
 - 👀 I’m interested in robots, eletronic, coding
-- 🌱 I’m currently learning C data structs, pcb making
+- 🌱 I’m currently learning C data structures, pcb making
 - 📫 How to reach me ... my email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a cat named "3OOO"!
